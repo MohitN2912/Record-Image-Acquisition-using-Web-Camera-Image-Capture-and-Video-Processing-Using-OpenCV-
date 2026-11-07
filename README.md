@@ -132,14 +132,14 @@ cap.release()
 
 Captured image is saved as `captured_image.jpg`
 
-<img width="642" height="512" alt="image" src="https://github.com/user-attachments/assets/03dd7044-a8a9-45e2-91b3-19fed68c0dd8" />
+<img width="645" height="508" alt="image" src="https://github.com/user-attachments/assets/ea681b4b-514c-449e-b196-4695ccfb17d3" />
 
 
 ### ii) Display the video
 
 Live webcam video is displayed
 
-<img width="645" height="486" alt="image" src="https://github.com/user-attachments/assets/0d6e0da1-001b-4c37-8fc2-09fbe00209ea" />
+<img width="645" height="490" alt="image" src="https://github.com/user-attachments/assets/4c8398b1-f191-491c-b4cb-d8e2b8e57f59" />
 
 
 
@@ -148,7 +148,7 @@ Live webcam video is displayed
 Video is shown in resized resolution (640 × 480)
 
 
-<img width="333" height="496" alt="image" src="https://github.com/user-attachments/assets/767f9d5e-a89b-48c7-9f8b-1a224fa297fe" />
+<img width="337" height="490" alt="image" src="https://github.com/user-attachments/assets/e50f5954-6f70-45f5-ac6a-26ede00a2b1d" />
 
 
 
@@ -157,7 +157,7 @@ Video is shown in resized resolution (640 × 480)
 Video is displayed after rotation (90° clockwise)
 
 
-<img width="372" height="490" alt="image" src="https://github.com/user-attachments/assets/d3e55a51-8880-4cfa-b2b0-addf59d77716" />
+<img width="377" height="490" alt="image" src="https://github.com/user-attachments/assets/9643c8fc-708f-49f3-b94b-4473bbda4fcd" />
 
 
 
